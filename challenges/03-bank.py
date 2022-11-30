@@ -12,10 +12,10 @@ print("3. make a deposit ")
 operation = input()
 
 if operation == "1":
-    print("your account balance is -19,000. You broke ass\n")
+    print("your account balance is -20,000.\n")
 
 elif operation == "2":
-    print("insuffecient funds broke ass\n")
+    print("insuffecient funds\n")
 
 elif operation == "3":
     print("Gimme that money\n")
@@ -27,5 +27,5 @@ response = input()
 if response == "yes":
     print("thank you, goodbye")
 elif response == "no":
-    print("get a job broke ass")
+    print("get a job")
 print()
